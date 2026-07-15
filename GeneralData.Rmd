@@ -1,0 +1,23 @@
+---
+title: "GeneralData"
+output: html_document
+---
+
+#This is a base document, I haven't put anything substantial in it yet.
+
+
+#Libraries
+```{r}
+library(tidyverse)
+library(tidyr)
+library(tidymodels)
+library(MASS)
+library(forcats)
+library(tidymodels)
+library(sf)
+```
+
+
+
+
+
